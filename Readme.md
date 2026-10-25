@@ -1,5 +1,5 @@
 # ET0735 - Lab 1 (Introduction to Git and GitHub)
-<img src="github.png">
-
-# GitHub Logo is shown below
 ![github logo](github.png)
+- Name: Tan KT
+- Class: 2A02 (**DCPE**)
+- Web-site: [Singapore Polytechnic](https://www.sp.edu.sg)
